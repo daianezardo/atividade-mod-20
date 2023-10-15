@@ -19,3 +19,5 @@ function mdc (num1, num2) {
 var resultado = mdc(21, 30);
 
 console.log(resultado);
+
+module.exports = mdc;
